@@ -1,0 +1,45 @@
+﻿ingredient_id,name,unit,sample_cost_per_unit_pkr
+1,Beef,g,1.6
+2,Bell pepper,g,0.5
+3,Bread,g,0.4
+4,Breadcrumbs,g,0.4
+5,Burger bun,piece,45.0
+6,Butter,g,2.4
+7,Carrot,g,0.2
+8,Cheese,g,2.2
+9,Chicken,g,1.0
+10,Chickpeas,g,0.5
+11,Cocoa,g,2.5
+12,Coffee powder,g,5.5
+13,Cooking oil,g,0.65
+14,Cucumber,g,0.2
+15,Egg,piece,30.0
+16,Feta cheese,g,2.5
+17,Flatbread,piece,30.0
+18,Flour,g,0.2
+19,Garlic,g,1.2
+20,Garlic sauce,g,0.8
+21,Ice cream base,g,1.0
+22,Lemon juice,ml,0.6
+23,Lentils,g,0.6
+24,Lettuce,g,0.4
+25,Mango puree,g,0.7
+26,Mint,g,1.2
+27,Mutton,g,2.4
+28,Olives,g,2.2
+29,Onion,g,0.2
+30,Orange,g,0.35
+31,Potato,g,0.18
+32,Rice,g,0.45
+33,Salt,g,0.1
+34,Soft drink can,piece,100.0
+35,Spice mix,g,1.8
+36,Sugar,g,0.2
+37,Tahini,g,1.8
+38,Tea leaves,g,1.8
+39,Tomato,g,0.25
+40,Tomato sauce,g,0.65
+41,Water,ml,0.01
+42,Water bottle,piece,60.0
+43,Yeast,g,2.5
+44,Yogurt,g,0.35

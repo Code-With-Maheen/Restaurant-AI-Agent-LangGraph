@@ -1,0 +1,31 @@
+﻿product_id,name,category,selling_price_pkr
+1,Chicken Biryani,Food,450.0
+2,Beef Biryani,Food,550.0
+3,Chicken Karahi,Food,1200.0
+4,Mutton Karahi,Food,2200.0
+5,Chicken Tikka,Food,600.0
+6,Beef Kebab,Food,500.0
+7,Grilled Chicken,Food,900.0
+8,Chicken Shawarma,Food,350.0
+9,Beef Shawarma,Food,450.0
+10,Zinger Burger,Food,550.0
+11,Beef Burger,Food,650.0
+12,Chicken Pizza,Food,1400.0
+13,Vegetable Pizza,Food,1100.0
+14,French Fries,Food,250.0
+15,Chicken Nuggets,Food,450.0
+16,Hummus,Food,400.0
+17,Garlic Bread,Food,350.0
+18,Fattoush Salad,Food,450.0
+19,Greek Salad,Food,550.0
+20,Lentil Soup,Food,250.0
+21,Chicken Soup,Food,350.0
+22,Fresh Orange Juice,Drinks,350.0
+23,Mango Juice,Drinks,300.0
+24,Lemon Mint,Drinks,250.0
+25,Soft Drink,Drinks,150.0
+26,Mineral Water,Drinks,100.0
+27,Tea,Drinks,120.0
+28,Coffee,Drinks,300.0
+29,Chocolate Cake,Dessert,400.0
+30,Ice Cream,Dessert,250.0

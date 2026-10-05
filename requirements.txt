@@ -1,0 +1,7 @@
+streamlit
+langgraph
+reportlab
+pypdf
+chromadb
+google-genai
+python-dotenv

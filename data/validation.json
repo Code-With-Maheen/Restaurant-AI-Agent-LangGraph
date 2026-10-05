@@ -1,0 +1,51 @@
+{
+  "currency": "PKR",
+  "data_type": "fictional sample; future-dated rows are demo records",
+  "counts": {
+    "products": 30,
+    "orders": 3500,
+    "order_items": 7000,
+    "ingredients": 44,
+    "recipe_items": 114
+  },
+  "start_date": "2025-01-01",
+  "end_date": "2027-12-31",
+  "revenue_pkr": 4615200.0,
+  "estimated_food_cost_pkr": 1752947.8,
+  "estimated_gross_profit_pkr": 2862252.2,
+  "yearly_columns": [
+    "year",
+    "orders",
+    "units",
+    "revenue_pkr",
+    "estimated_food_cost_pkr",
+    "estimated_gross_profit_pkr"
+  ],
+  "yearly": [
+    [
+      "2025",
+      1163,
+      3418,
+      1523720.0,
+      582358.05,
+      941361.95
+    ],
+    [
+      "2026",
+      1176,
+      3430,
+      1507000.0,
+      567256.2,
+      939743.8
+    ],
+    [
+      "2027",
+      1161,
+      3445,
+      1584480.0,
+      603333.55,
+      981146.45
+    ]
+  ],
+  "validation": "PASSED"
+}

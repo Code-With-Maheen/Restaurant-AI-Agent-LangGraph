@@ -1,0 +1,115 @@
+﻿menu_item,ingredient,quantity,unit
+Chicken Biryani,Rice,180.0,g
+Chicken Biryani,Chicken,200.0,g
+Chicken Biryani,Onion,50.0,g
+Chicken Biryani,Tomato,40.0,g
+Chicken Biryani,Cooking oil,20.0,g
+Chicken Biryani,Spice mix,12.0,g
+Beef Biryani,Rice,180.0,g
+Beef Biryani,Beef,180.0,g
+Beef Biryani,Onion,50.0,g
+Beef Biryani,Tomato,40.0,g
+Beef Biryani,Cooking oil,20.0,g
+Beef Biryani,Spice mix,12.0,g
+Chicken Karahi,Chicken,250.0,g
+Chicken Karahi,Tomato,100.0,g
+Chicken Karahi,Cooking oil,25.0,g
+Chicken Karahi,Spice mix,15.0,g
+Mutton Karahi,Mutton,250.0,g
+Mutton Karahi,Tomato,100.0,g
+Mutton Karahi,Cooking oil,25.0,g
+Mutton Karahi,Spice mix,15.0,g
+Chicken Tikka,Chicken,250.0,g
+Chicken Tikka,Yogurt,40.0,g
+Chicken Tikka,Spice mix,15.0,g
+Chicken Tikka,Cooking oil,10.0,g
+Beef Kebab,Beef,180.0,g
+Beef Kebab,Onion,40.0,g
+Beef Kebab,Spice mix,10.0,g
+Beef Kebab,Cooking oil,10.0,g
+Grilled Chicken,Chicken,300.0,g
+Grilled Chicken,Spice mix,12.0,g
+Grilled Chicken,Cooking oil,10.0,g
+Chicken Shawarma,Chicken,120.0,g
+Chicken Shawarma,Flatbread,1.0,piece
+Chicken Shawarma,Garlic sauce,25.0,g
+Chicken Shawarma,Lettuce,20.0,g
+Beef Shawarma,Beef,120.0,g
+Beef Shawarma,Flatbread,1.0,piece
+Beef Shawarma,Garlic sauce,25.0,g
+Beef Shawarma,Lettuce,20.0,g
+Zinger Burger,Chicken,120.0,g
+Zinger Burger,Burger bun,1.0,piece
+Zinger Burger,Flour,25.0,g
+Zinger Burger,Cooking oil,15.0,g
+Zinger Burger,Lettuce,20.0,g
+Zinger Burger,Garlic sauce,20.0,g
+Beef Burger,Beef,120.0,g
+Beef Burger,Burger bun,1.0,piece
+Beef Burger,Lettuce,20.0,g
+Beef Burger,Garlic sauce,20.0,g
+Chicken Pizza,Flour,200.0,g
+Chicken Pizza,Chicken,100.0,g
+Chicken Pizza,Cheese,80.0,g
+Chicken Pizza,Tomato sauce,60.0,g
+Chicken Pizza,Yeast,3.0,g
+Vegetable Pizza,Flour,200.0,g
+Vegetable Pizza,Bell pepper,50.0,g
+Vegetable Pizza,Onion,40.0,g
+Vegetable Pizza,Cheese,80.0,g
+Vegetable Pizza,Tomato sauce,60.0,g
+Vegetable Pizza,Yeast,3.0,g
+French Fries,Potato,180.0,g
+French Fries,Cooking oil,20.0,g
+French Fries,Salt,2.0,g
+Chicken Nuggets,Chicken,100.0,g
+Chicken Nuggets,Breadcrumbs,30.0,g
+Chicken Nuggets,Cooking oil,15.0,g
+Hummus,Chickpeas,150.0,g
+Hummus,Tahini,25.0,g
+Hummus,Lemon juice,15.0,ml
+Hummus,Cooking oil,10.0,g
+Garlic Bread,Bread,100.0,g
+Garlic Bread,Butter,20.0,g
+Garlic Bread,Garlic,5.0,g
+Fattoush Salad,Tomato,60.0,g
+Fattoush Salad,Cucumber,60.0,g
+Fattoush Salad,Lettuce,40.0,g
+Fattoush Salad,Flatbread,1.0,piece
+Fattoush Salad,Lemon juice,15.0,ml
+Greek Salad,Tomato,60.0,g
+Greek Salad,Cucumber,60.0,g
+Greek Salad,Lettuce,40.0,g
+Greek Salad,Feta cheese,40.0,g
+Greek Salad,Olives,20.0,g
+Lentil Soup,Lentils,70.0,g
+Lentil Soup,Onion,20.0,g
+Lentil Soup,Carrot,30.0,g
+Lentil Soup,Water,250.0,ml
+Lentil Soup,Spice mix,5.0,g
+Chicken Soup,Chicken,80.0,g
+Chicken Soup,Carrot,30.0,g
+Chicken Soup,Water,250.0,ml
+Chicken Soup,Spice mix,5.0,g
+Fresh Orange Juice,Orange,250.0,g
+Mango Juice,Mango puree,100.0,g
+Mango Juice,Water,150.0,ml
+Mango Juice,Sugar,10.0,g
+Lemon Mint,Lemon juice,30.0,ml
+Lemon Mint,Mint,5.0,g
+Lemon Mint,Water,200.0,ml
+Lemon Mint,Sugar,15.0,g
+Soft Drink,Soft drink can,1.0,piece
+Mineral Water,Water bottle,1.0,piece
+Tea,Tea leaves,3.0,g
+Tea,Water,200.0,ml
+Tea,Sugar,5.0,g
+Coffee,Coffee powder,8.0,g
+Coffee,Water,200.0,ml
+Coffee,Sugar,5.0,g
+Chocolate Cake,Flour,35.0,g
+Chocolate Cake,Cocoa,8.0,g
+Chocolate Cake,Sugar,25.0,g
+Chocolate Cake,Butter,20.0,g
+Chocolate Cake,Egg,0.5,piece
+Ice Cream,Ice cream base,100.0,g

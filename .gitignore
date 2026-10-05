@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+.venv312/
+__pycache__/
+*.py[cod]
+chroma_db/
+
+data/restaurant_backup_*.db
+data/restaurant_before_*.db
+data/restaurant_build.db
+data/restaurant_7000_build_*.db
+data/exports/sales_5000.csv
